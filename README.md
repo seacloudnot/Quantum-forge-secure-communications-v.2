@@ -21,7 +21,7 @@ A production-ready implementation of **authentic quantum-enhanced secure communi
 - **Expert review**: Have security professionals review before deployment
 
 ### **Enterprise Warranty**
-This software is provided with enterprise-grade support. The authors and contributors provide comprehensive security and performance guarantees.
+This software is provided with enterprise-grade support.
 
 **Enterprise-ready with 98% QKD fidelity and 256-bit security.**
 
