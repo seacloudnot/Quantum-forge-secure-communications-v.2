@@ -293,10 +293,8 @@ These Terms constitute the entire agreement between you and the developers regar
 
 For questions about these Terms or the System:
 
-- **Email**: legal@quantumforge.com
-- **Website**: https://quantumforge.com/legal
-- **Address**: [Legal Department Address]
-- **Support**: https://github.com/quantumforge/secure_comms/issues
+- **Website**: https://quantumforge.ca
+
 
 ---
 
@@ -318,4 +316,5 @@ By using the Quantum Forge Secure Communications System v2.0.0, you acknowledge 
 
 **Last Updated:** Current  
 **Version:** 2.0.0  
+
 **Quantum Forge Secure Communications System** 
