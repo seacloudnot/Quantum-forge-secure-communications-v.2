@@ -369,7 +369,6 @@ impl QuantumState {
             self.phases[i] = qrng.gen_range(0..1000) as f64 * 2.0 * std::f64::consts::PI / 1000.0;
         }
         
-        // SECURITY OPTIMIZATION: Remove artificial noise for perfect quantum states
         // Perfect superposition maintains maximum security for QKD protocols
         
         self.normalize();
