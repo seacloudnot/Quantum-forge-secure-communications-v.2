@@ -427,10 +427,9 @@ mod security_tests {
 5. **Public Disclosure**: Coordinate public disclosure timing
 
 #### Security Contact
-- **Email**: security@quantumforge.com
+- **Website**: quantumforge.ca
 - **PGP Key**: [Security Team PGP Key]
-- **Response Time**: 24-48 hours for initial response
-- **Bug Bounty**: Available for critical vulnerabilities
+
 
 ## 📚 Documentation
 
@@ -600,19 +599,7 @@ Brief description of changes
 - **Utilities**: Helper utilities and tools
 - **Research**: Experimental features
 
-### Getting Help
 
-#### Resources
-- **Documentation**: [Project Documentation](https://quantumforge.com/docs)
-- **API Reference**: [API Documentation](https://docs.rs/quantum_forge_secure_comms)
-- **Examples**: [Code Examples](https://github.com/quantum-forge/secure-comms-v2/examples)
-- **Discussions**: [GitHub Discussions](https://github.com/quantum-forge/secure-comms-v2/discussions)
-
-#### Community
-- **Discord**: [Quantum Forge Discord](https://discord.gg/quantumforge)
-- **Matrix**: [Quantum Forge Matrix](https://matrix.to/#/#quantumforge:matrix.org)
-- **Email**: [Community Email](mailto:community@quantumforge.com)
-- **Blog**: [Quantum Forge Blog](https://quantumforge.com/blog)
 
 ---
 
@@ -621,5 +608,6 @@ Brief description of changes
 Thank you to all contributors who have helped make the Quantum Forge Secure Communications System what it is today. Your contributions are invaluable to the quantum security community.
 
 ---
+
 
 **Quantum Forge Secure Communications System v2.0.0** - Building the future of quantum-enhanced security together. 
