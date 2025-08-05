@@ -95,18 +95,6 @@ We are committed to working with security researchers to identify and fix securi
 | Medium | 72 hours | Bi-weekly | 90 days |
 | Low | 1 week | Monthly | 180 days |
 
-### Security Contact Information
-
-#### Primary Contact
-- **Email**: security@quantumforge.com
-- **PGP Key**: [Security Team PGP Key](https://quantumforge.com/security/pgp-key.asc)
-- **Response Time**: 24-48 hours for initial response
-- **Language**: English preferred
-
-#### Alternative Contact
-- **GitHub Security**: [GitHub Security Advisories](https://github.com/quantum-forge/secure-comms-v2/security/advisories)
-- **Discord**: [Quantum Forge Security Channel](https://discord.gg/quantumforge)
-- **Matrix**: [Quantum Forge Security Room](https://matrix.to/#/#quantumforge-security:matrix.org)
 
 ### Bug Bounty Program
 
@@ -491,3 +479,4 @@ security_events_enabled = true
 
 
 **Quantum Forge Secure Communications System v2.0.0** - Enterprise-grade security with comprehensive threat protection and incident response capabilities. 
+
