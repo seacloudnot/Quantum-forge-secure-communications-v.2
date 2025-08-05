@@ -485,54 +485,9 @@ security_events_enabled = true
 - **Mitigation Steps**: Recommended mitigation actions
 - **Update Instructions**: How to apply updates
 
-## 📞 Contact Information
 
-### Security Team
-- **Email**: security@quantumforge.com
-- **PGP Key**: [Security Team PGP Key](https://quantumforge.com/security/pgp-key.asc)
-- **Phone**: +1-XXX-XXX-XXXX (Emergency only)
-- **Response Time**: 24-48 hours for initial response
-
-### Emergency Contact
-- **Critical Incidents**: security-emergency@quantumforge.com
-- **PGP Key**: [Emergency PGP Key](https://quantumforge.com/security/emergency-pgp-key.asc)
-- **Response Time**: 1-4 hours for critical incidents
-- **Escalation**: Automatic escalation for critical issues
-
-### Community Resources
-- **GitHub Security**: [Security Advisories](https://github.com/quantum-forge/secure-comms-v2/security/advisories)
-- **Discord**: [Security Channel](https://discord.gg/quantumforge)
-- **Matrix**: [Security Room](https://matrix.to/#/#quantumforge-security:matrix.org)
-- **Blog**: [Security Blog](https://quantumforge.com/blog/security)
-
-### Legal Contact
-- **Legal Team**: legal@quantumforge.com
-- **Compliance**: compliance@quantumforge.com
-- **Privacy**: privacy@quantumforge.com
-- **Regulatory**: regulatory@quantumforge.com
 
 ---
 
-## 🔗 Additional Resources
-
-### Security Documentation
-- [Security Architecture](https://quantumforge.com/docs/security/architecture)
-- [Threat Model](https://quantumforge.com/docs/security/threat-model)
-- [Security Best Practices](https://quantumforge.com/docs/security/best-practices)
-- [Compliance Guide](https://quantumforge.com/docs/security/compliance)
-
-### Security Tools
-- [Security Scanner](https://quantumforge.com/security/scanner)
-- [Vulnerability Database](https://quantumforge.com/security/vulnerabilities)
-- [Security Checklist](https://quantumforge.com/security/checklist)
-- [Incident Response Playbook](https://quantumforge.com/security/playbook)
-
-### Training Resources
-- [Security Training](https://quantumforge.com/training/security)
-- [Developer Security Guide](https://quantumforge.com/docs/security/developer-guide)
-- [Admin Security Guide](https://quantumforge.com/docs/security/admin-guide)
-- [User Security Guide](https://quantumforge.com/docs/security/user-guide)
-
----
 
 **Quantum Forge Secure Communications System v2.0.0** - Enterprise-grade security with comprehensive threat protection and incident response capabilities. 
